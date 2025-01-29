@@ -209,9 +209,9 @@
 	};
 
 	// Parallax
-	var parallax = function() {
-		$(window).stellar();
-	};
+	// var parallax = function() {
+	// 	$(window).stellar();
+	// };
 
 	
 	$(function(){
