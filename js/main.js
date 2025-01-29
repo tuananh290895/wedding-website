@@ -216,7 +216,7 @@
 	
 	$(function(){
 		mobileMenuOutsideClick();
-		parallax();
+		// parallax();
 		offcanvasMenu();
 		burgerMenu();
 		contentWayPoint();
